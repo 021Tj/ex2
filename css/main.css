@@ -1,0 +1,15 @@
+html,body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	height: 95px;
+	line-height: 100px;
+	text-align: center;
+	font-size: 95px;
+	font-family: "微软雅黑", "黑体", "宋体";
+	margin: 0 auto;
+}
